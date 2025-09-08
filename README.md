@@ -5,7 +5,7 @@ Each user can rent an apartment that automatically syncs their **tokens and NFTs
 and an AI assistant helps analyze, explain, and showcase assets.
 
 This repo serves as the starting point for documentation and community feedback.  
-Demo 👉 [AI Apartment](https://ai-meta.vercel.app/)
+Demo 👉 [AI Apartment](https://aiapartment.app/)
 
 ⚠️ Note: AI Apartment is currently in **Proof of Concept (PoC)** stage.  
 All data may be reset or deleted at any time during development. Please don’t store anything critical.
