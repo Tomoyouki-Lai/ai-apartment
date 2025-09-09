@@ -12,9 +12,6 @@ All data may be reset or deleted at any time during development. Please don’t 
 
 ![Image](https://github.com/Tomoyouki-Lai/ai-apartment/blob/main/ai-apartment-9m.gif)
 
-![AI Apartment Demo](https://github.com/Tomoyouki-Lai/ai-apartment/raw/main/ai-apartment-9m.gif)
-
-
 ---
 
 ## ✨ Why AI Apartment?
