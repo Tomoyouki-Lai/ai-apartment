@@ -10,7 +10,7 @@ Demo 👉 [AI Apartment](https://aiapartment.app/)
 ⚠️ Note: AI Apartment is currently in **Proof of Concept (PoC)** stage.  
 All data may be reset or deleted at any time during development. Please don’t store anything critical.
 
-![image](https://github.com/Tomoyouki-Lai/ai-apartment/blob/main/ai-apartment.gif)
+![Image](https://github.com/user-attachments/assets/2151b93a-6d52-4369-bec8-f37ffe6b17ab)
 
 ---
 
